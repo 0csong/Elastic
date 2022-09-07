@@ -33,7 +33,7 @@
 
 ### LSTM을 통한 농산물 가격 예측
 
-<img width="800" src="https://www.kaggleusercontent.com/kf/100631179/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..FLZmtdO7kGg1QZAvpStkdg.ALqaRbSGDRGjS01UlnVIASN1KdVmI0LhMEisC2SL6l1tKkf7vjEDO3NJP98EheSj8t-IZSmP1ElwwrGC_BS7zkuOZ83hHxEQH_vfhzDNT654aCpaDqvJEKPOFnQUwaw4vfZBQRd_fxlzoUWLw4oPS2x9QnwPq7KhdyrSVR1UWKvXgzfqsA0AVKkkZcg4W1sIMjIyGVBMjWP4NZksqLYBJaBaFakuCRIp46JHAI9zxH2ByPj1kh98KmX2z97kGTYVtZ1TetXRwhYXhNRkeEwBqUiJ2olPsW5UcXWl3m_nl9khjSg1zUS8eiC0wVrwZRysA6Csnd1JT44lpYqVmgWQ-YKUH923T9Ur6Cbqe6qSYkJQSvs0nKKt37LJ71hZL5uZB3uk4Y0xAI9OiJylPfDf6__0xckLc9MKiIDtMYEs7DX3Zg3LYwXG7EXPXBKkOvpWQJqKVmMFXIX5oBAcEmNQaBv8qiBBE46bcIhXtE9mXFZG-kjx1rSoq2b25mVwFHg-xelWC_Gau4DAyVOl9h-XcyIyGF1Wjo4mcAJiZWDHj1cJhmZ8KJ3RQpawlmhXfzpSQqjTdL3oLPOs06cJrPSORqFr3SzFOEXLq1gUZXwPPbsxbuKCjTGzVaUcTdZOY7GxBUvNWj2AsCVQiYVJWEx4GA.t8x2brLjSqPkTDWlCwejOQ/__results___files/__results___21_0.png">
+<img width="800" src="https://github.com/0csong/Elastic/blob/main/%EC%82%AC%EC%A7%84/%EC%98%88%EC%B8%A1%EA%B2%B0%EA%B3%BC.png?raw=true">
 
 
 ### 최종 키바나 대시보드 화면🖥️
